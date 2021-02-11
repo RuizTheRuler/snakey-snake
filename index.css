@@ -1,0 +1,17 @@
+.snakeG {
+	text-align: center;
+	font-size: 30px;
+}
+.snakeDir {
+	text-align: center;
+	font-size: 15px;
+}
+.snakeB {
+	text-align: center;
+ }
+canvas {
+	border: 5px solid #000000; 
+}
+#playArea {
+	background: #4B0082;
+}
