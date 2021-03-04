@@ -12,6 +12,9 @@
 canvas {
 	border: 5px solid #000000; 
 }
+body {
+  	background-color: #f5f6fa;
+}
 #playArea {
 	background: #4B0082;
 }
